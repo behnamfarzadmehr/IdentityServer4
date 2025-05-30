@@ -1,0 +1,11 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\bin\Debug\net9.0\HybridBlazor.ServiceConcrete.deps.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\bin\Debug\net9.0\HybridBlazor.ServiceConcrete.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\bin\Debug\net9.0\HybridBlazor.ServiceConcrete.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.AssemblyInfoInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.AssemblyInfo.cs
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\refint\HybridBlazor.ServiceConcrete.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\HybridBlazor.ServiceConcrete.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceConcrete\obj\Debug\net9.0\ref\HybridBlazor.ServiceConcrete.dll

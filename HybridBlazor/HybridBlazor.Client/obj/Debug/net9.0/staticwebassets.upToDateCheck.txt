@@ -1,0 +1,4 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor\HybridBlazor.Client\wwwroot\appsettings.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor\HybridBlazor.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

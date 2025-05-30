@@ -1,0 +1,11 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\bin\Debug\net9.0\HybridBlazor.ServiceAbstract.deps.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\bin\Debug\net9.0\HybridBlazor.ServiceAbstract.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\bin\Debug\net9.0\HybridBlazor.ServiceAbstract.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.AssemblyInfoInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.AssemblyInfo.cs
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\refint\HybridBlazor.ServiceAbstract.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\HybridBlazor.ServiceAbstract.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.ServiceAbstract\obj\Debug\net9.0\ref\HybridBlazor.ServiceAbstract.dll

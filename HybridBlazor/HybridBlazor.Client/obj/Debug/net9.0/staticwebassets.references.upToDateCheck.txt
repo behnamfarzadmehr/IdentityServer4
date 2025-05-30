@@ -1,0 +1,2 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\staticwebassets.build.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\staticwebassets.build.json

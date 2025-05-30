@@ -1,0 +1,11 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\bin\Debug\net9.0\HybridBlazor.Data.deps.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\bin\Debug\net9.0\HybridBlazor.Data.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\bin\Debug\net9.0\HybridBlazor.Data.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.AssemblyInfoInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.AssemblyInfo.cs
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\refint\HybridBlazor.Data.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\HybridBlazor.Data.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Data\obj\Debug\net9.0\ref\HybridBlazor.Data.dll

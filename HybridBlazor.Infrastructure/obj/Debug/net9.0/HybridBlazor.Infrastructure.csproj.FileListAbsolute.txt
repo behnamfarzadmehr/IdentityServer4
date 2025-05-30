@@ -1,0 +1,12 @@
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\bin\Debug\net9.0\HybridBlazor.Infrastructure.deps.json
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\bin\Debug\net9.0\HybridBlazor.Infrastructure.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\bin\Debug\net9.0\HybridBlazor.Infrastructure.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.csproj.AssemblyReference.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.AssemblyInfoInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.AssemblyInfo.cs
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\refint\HybridBlazor.Infrastructure.dll
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\HybridBlazor.Infrastructure.pdb
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Infrastructure\obj\Debug\net9.0\ref\HybridBlazor.Infrastructure.dll
