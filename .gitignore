@@ -1,5 +1,23 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/HybridBlazor.sln
+﻿# Visual Studio and ASP.NET Core
+bin/
+obj/
+wwwroot/
+*.user
+*.suo
+*.csproj.user
+appsettings.json
+appsettings.*.json
+Properties/launchSettings.json
+*.cshtml.cs
+*.razor.cs
+*.min.*
+*.css.map
+*.js.map
+.vs/
+.vscode/
+TestResults/
+*.log
+logs/
+*.nupkg
+packages/
+node_modules/
