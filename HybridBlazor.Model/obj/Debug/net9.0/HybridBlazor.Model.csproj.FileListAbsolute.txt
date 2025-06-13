@@ -5,6 +5,7 @@ H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\Hybr
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.AssemblyInfoInputs.cache
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.AssemblyInfo.cs
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.sourcelink.json
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.dll
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\refint\HybridBlazor.Model.dll
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Model\obj\Debug\net9.0\HybridBlazor.Model.pdb

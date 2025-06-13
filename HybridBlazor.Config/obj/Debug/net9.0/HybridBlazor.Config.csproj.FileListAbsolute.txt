@@ -16,6 +16,7 @@ H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\Hyb
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBlazor.Config.AssemblyInfoInputs.cache
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBlazor.Config.AssemblyInfo.cs
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBlazor.Config.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBlazor.Config.sourcelink.json
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBl.156947AB.Up2Date
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\HybridBlazor.Config.dll
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Config\obj\Debug\net9.0\refint\HybridBlazor.Config.dll

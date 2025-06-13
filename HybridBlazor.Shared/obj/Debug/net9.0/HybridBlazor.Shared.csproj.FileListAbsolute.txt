@@ -8,6 +8,7 @@ H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\Hyb
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\HybridBlazor.Shared.AssemblyInfoInputs.cache
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\HybridBlazor.Shared.AssemblyInfo.cs
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\HybridBlazor.Shared.csproj.CoreCompileInputs.cache
+H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\HybridBlazor.Shared.sourcelink.json
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\scopedcss\Component1.razor.rz.scp.css
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\scopedcss\bundle\HybridBlazor.Shared.styles.css
 H:\Programin\Blazor hybrid\HybridBlazor\HybridBlazor.Shared\obj\Debug\net9.0\scopedcss\projectbundle\HybridBlazor.Shared.bundle.scp.css

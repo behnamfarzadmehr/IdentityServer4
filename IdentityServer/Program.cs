@@ -43,6 +43,7 @@ app.UseRouting();
 
 app.UseIdentityServer();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();

@@ -1,12 +1,10 @@
 ﻿# Visual Studio and ASP.NET Core
 bin/
 obj/
-wwwroot/
+wwwroot/lib/
 *.user
 *.suo
 *.csproj.user
-appsettings.json
-appsettings.*.json
 Properties/launchSettings.json
 *.cshtml.cs
 *.razor.cs
@@ -21,3 +19,25 @@ logs/
 *.nupkg
 packages/
 node_modules/
+
+# ASP.NET Core configuration files
+appsettings.json
+appsettings.*.json
+
+# EF Core migrations (optional, uncomment if you want to exclude migrations)
+# Migrations/
+
+# Build and publish output
+publish/
+*.pubxml
+*.pubxml.user
+
+# NuGet cache
+~/.nuget/packages/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
