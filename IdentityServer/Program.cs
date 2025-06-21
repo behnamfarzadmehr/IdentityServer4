@@ -1,6 +1,9 @@
 using IdentityServer;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using HybridBlazor.Config;
+using Duende.IdentityServer.Services;
+using IdentityServer.Classes;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +30,9 @@ builder.Services.AddAuthentication(options =>
         options.LoginPath = "/Account/Login";
         options.LogoutPath = "/Account/Logout";
     });
+
+builder.Services.AddScoped<IUserClaimsPrincipalFactory<IdentityUser>, CustomClaimsPrincipalFactory>();
+
 
 var app = builder.Build();
 

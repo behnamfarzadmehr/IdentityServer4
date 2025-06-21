@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HybridBlazor.ServiceConcrete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2674f484fa0e83ceb184fc205673dbf75119c263")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a560fa1d162fae7c065771a7d516ec4b7e5a72cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HybridBlazor.ServiceConcrete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HybridBlazor.ServiceConcrete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

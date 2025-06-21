@@ -1,18 +1,29 @@
-﻿
+﻿@using HybridBlazor.Model.Authenticate
 
-<h2>Login</h2>
-@* <form asp-action="Login" method="post">
+@model LoginViewModel
+
+<form method="post" asp-action="Login">
     <input type="hidden" asp-for="ReturnUrl" />
     <div>
-        <label asp-for="Username">Username</label>
-        <input asp-for="Username" class="form-control" />
-        <span asp-validation-for="Username" class="text-danger"></span>
+        <label>Username</label>
+        <input asp-for="Username" />
     </div>
     <div>
-        <label asp-for="Password">Password</label>
-        <input asp-for="Password" type="password" class="form-control" />
-        <span asp-validation-for="Password" class="text-danger"></span>
+        <label>Password</label>
+        <input asp-for="Password" type="password" />
     </div>
-    <div asp-validation-summary="All" class="text-danger"></div>
-    <button type="submit" class="btn btn-primary">Login</button>
-</form> *@
+    <div>
+        <input asp-for="RememberLogin" type="checkbox" /> Remember me
+    </div>
+    <button type="submit">Login</button>
+</form>
+<a href="/account/register">Register</a>
+@if (!ViewData.ModelState.IsValid)
+{
+    <div>
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
